@@ -1,0 +1,13 @@
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.csprojAssemblyReference.cache
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.AssemblyInfoInputs.cache
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.AssemblyInfo.cs
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.csproj.CoreCompileInputs.cache
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.exe
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.deps.json
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.runtimeconfig.json
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.runtimeconfig.dev.json
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.dll
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\bin\Debug\netcoreapp3.1\Upp09RoSciPap.pdb
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.dll
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.pdb
+C:\Users\Mei\Documents\GitHub\Upp09RoSciPap\obj\Debug\netcoreapp3.1\Upp09RoSciPap.genruntimeconfig.cache
